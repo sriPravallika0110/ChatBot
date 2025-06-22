@@ -32,7 +32,7 @@ PyPDF2 – for reading PDF content
 
 git clone https://github.com/your-username/genai-pdf-chatbot.git
 
-cd genai-pdf-chatbot
+cd ChatBot
 
 pip install -r requirements.txt
 
