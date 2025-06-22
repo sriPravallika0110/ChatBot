@@ -31,8 +31,11 @@ PyPDF2 – for reading PDF content
 # 📦 Setup Instructions
 
 git clone https://github.com/your-username/genai-pdf-chatbot.git
+
 cd genai-pdf-chatbot
+
 pip install -r requirements.txt
+
 streamlit run chatbot.py
 
 You may need a Hugging Face token if using HuggingFaceHub.
