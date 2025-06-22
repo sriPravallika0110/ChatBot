@@ -40,3 +40,7 @@ streamlit run chatbot.py
 
 You may need a Hugging Face token if using HuggingFaceHub.
 
+# ChatBot Demo
+![image](https://github.com/user-attachments/assets/4fc4fbfc-f345-4649-9773-33c44e5d12c5)
+
+
